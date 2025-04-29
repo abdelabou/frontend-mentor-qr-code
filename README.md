@@ -40,5 +40,4 @@ I used plain html and css. I made this choice because i wanted to focus on css o
 
 ## Author
 
-- Website - Abdelkarim Abou
 - Frontend Mentor - [@abdelabou](https://www.frontendmentor.io/profile/abdelabou)
